@@ -52,12 +52,6 @@ const app = {
             image: './img/anh5.jpg'
         },
         {
-            name: 'Y Chang Xuân Sang',
-            singer: 'Nal',
-            path: './music/YChangXuanSang.mp3',
-            image: './img/anh6.jpg'
-        },
-        {
             name: 'Về Quê Anh Lo',
             singer: 'The Night',
             path: './music/VeQueAnhLo.mp3',
